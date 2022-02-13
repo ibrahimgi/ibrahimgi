@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ibrahim!
-- 👨🏻‍💻 I've developed solutions for the media space for more than a ⅓ of my life, throughout which I founded two global companies.
+- 👨🏻‍💻 I've developed solutions within the media space for more than a ⅓ of my life, throughout which I founded two global companies.
 - 👀 The fusion of tech, advertising, and mobility really excites me.
 - 🌱 I’m currently immersing myself in OpenRTB and pDOOH technologies with the hopes of making transit media an engine for human betterment.
 - 📫 You can email me at ibrahim@overridemedia.com to learn about our open positions at Override, EMENA's first digital car-top advertising solution introducing situationally-aware smart screens on taxis and rideshares.
