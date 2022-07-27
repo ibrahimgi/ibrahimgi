@@ -2,5 +2,5 @@
 - 👨🏻‍💻 I've developed solutions within the media space for more than a ⅓ of my life.
 - 👀 The fusion of tech, advertising, and mobility really excites me. 
 - 🌱 I’m currently immersing myself in OpenRTB and pDOOH technologies to make transit media an engine for human betterment.
-- 📫 You can email me at ibrahim@overridemedia.com to discuss our open positions at Override, EMENA's first digital car-top advertising solution introducing situationally-aware smart screens on taxis and rideshares.
-- 📰 If you’d like to learn more about what I've been co-building for the past year, as well as where we’re headed, you can read our feature in Entrepreneur Magazine's February issue [here](https://issuu.com/entmagazineme/docs/entrepreneur_middle_east_february_2022/71) (pages 71, 72, and 73).
+- 📫 You can email me at ibrahim@overridemedia.com to discuss our open positions at Override, EMEA's leading transit advertising solution introducing situationally-aware smart screens on taxis and rideshares.
+- 📰 If you’d like to learn more about what I've been co-building for the past year, as well as where we’re headed, you can read our feature in Entrepreneur Magazine [here](https://issuu.com/entmagazineme/docs/entrepreneur_middle_east_february_2022/71) (pages 71, 72, and 73).
